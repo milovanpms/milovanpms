@@ -1,7 +1,5 @@
 ## Hi, I'm Milovan 👋
 
-<hr>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -24,3 +22,5 @@
     </td>
   </tr>
 </table>
+
+<hr>
