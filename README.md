@@ -17,10 +17,10 @@
       <b><a href="https://milovan.me">Visit my personal website</a></b>
     </td>
     <td align="center">
-      <a href="https://milovan.me/cv">
+      <a href="https://milovan.me/assets/docs/CV_EN_NOPIC.pdf">
         <img alt="LinkedIn" height="80" src="assets/guy.gif">
       </a><br>
-      <b><a href="https://milovan.me/cv">Check out my resume</a></b>
+      <b><a href="https://milovan.me/assets/docs/CV_EN_NOPIC.pdf">Check out my resume</a></b>
     </td>
   </tr>
 </table>
